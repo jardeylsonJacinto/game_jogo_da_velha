@@ -1,3 +1,31 @@
+# Hash
+
+Website created to have fun and kill time.
+
+## About Project
+This project aims to put into practice the knowledge acquired from Jquary selectors, native Jquary functions and increase the understanding of Jquary
+overview of the Udemy Web Development course.This project aims to put into practice the knowledge acquired from Jquary selectors, native Jquary functions and increase the understanding of Jquary verview of the Udemy Web Development course.
+
+## Technologies Used
+As a challenge, it was proposed to develop the project using:
+
+[![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
+[![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/default.asp)
+[![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://www.w3schools.com/jquery/default.asp)
+
+The used version of the jQuery JavaScript Library is v2.2.1
+
+## Layout design
+![index jogo da velha](https://user-images.githubusercontent.com/93053356/172881560-a0cd1f16-da50-4091-a4b1-5917326c2783.png)
+![jogo da velha](https://user-images.githubusercontent.com/93053356/172881569-4081e47e-5f11-4283-89a5-84a85e07842f.png)
+
+## My Contacts
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardeylson-jacinto-769769156)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jardeylsonjacinto/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jardeylsong.m@gmail.com)
+
+---
+
 # Jogo da velha
 
 Página web criada para se digvertir e matar o tempo.
